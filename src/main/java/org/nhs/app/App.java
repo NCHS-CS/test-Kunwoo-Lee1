@@ -6,3 +6,10 @@
 package org.nhs.app;
 
 // Your code goes here
+class Hello
+{
+    public static void main(String[] args)
+    {
+        System.out.print("Hello World");
+    }
+}
